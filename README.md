@@ -83,6 +83,6 @@ Classification](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14582/
 
 [A Multiview-based Parameter Free Framework for Group Detection](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14387), AAAI 2017
 
-[Practical and Efficient Multi-View Matching](chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=http%3A%2F%2Fopenaccess.thecvf.com%2Fcontent_ICCV_2017%2Fpapers%2FMaset_Practical_and_Efficient_ICCV_2017_paper.pdf), ICCV 2017
+[Practical and Efficient Multi-View Matching](http://openaccess.thecvf.com/content_iccv_2017/html/Maset_Practical_and_Efficient_ICCV_2017_paper.html), ICCV 2017
 
 
