@@ -14,6 +14,16 @@
 
 [Spectral Clustering with Brainstorming Process for Multi-view Data](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14295/14443), AAAI 2017
 
+[Multi-view Clustering via Deep Matrix Factorization](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14647/14497), AAAI 2017
+
+[Exclusivity-Consistency Regularized Multi-View Subspace Clustering](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_Exclusivity-Consistency_Regularized_Multi-View_CVPR_2017_paper.pdf), CVPR 2017
+
+[Latent Multi-View Subspace Clustering](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Latent_Multi-View_Subspace_CVPR_2017_paper.pdf), CVPR 2017
+
+[Multiple Clustering Views from Multiple Uncertain Experts](http://proceedings.mlr.press/v70/chang17a/chang17a.pdf), ICML 2017
+
+### Multi-view learning
+
 
 
 
