@@ -24,11 +24,13 @@
 
 ### Multi-view learning
 
+[Nonlinear Maximum Margin Multi-View Learning with Adaptive Kernel](https://dl.acm.org/citation.cfm?id=3172142), IJCAI 2017
 
+[Multi-view Correlated Feature Learning by Uncovering Shared Component](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14439), AAAI 2017
 
+[Uniform Projection for Multi-View Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7547930), TPAMI 2017
 
-
-
+[Multi-View Multi-Instance Learning Based on Joint Sparse Representation and Multi-View Dictionary Learning](https://ieeexplore.ieee.org/document/7855789), TPAMI 2017
 
 
 ### Multi-view learning
