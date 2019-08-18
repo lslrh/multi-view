@@ -69,7 +69,7 @@ Classification](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14582/
 
 [Multi-view Generative Adversarial Networks](https://openreview.net/forum?id=SJgWQPcxl), ICLR 2017
 
-## Re-identification
+### Re-identification
 
 [Cross-View Asymmetric Metric Learning for Unsupervised Person Re-Identification](http://openaccess.thecvf.com/content_iccv_2017/html/Yu_Cross-View_Asymmetric_Metric_ICCV_2017_paper.html), ICCV 2017
 
