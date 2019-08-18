@@ -51,7 +51,7 @@ Classification](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14582/
 
 ### 3D model
 
-#### 3D reconstruction
+#### (1) 3D reconstruction
 
 [Synthesizing 3D Shapes via Modeling Multi-View Depth Maps and Silhouettes With Deep Generative Networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Soltani_Synthesizing_3D_Shapes_CVPR_2017_paper.pdf), CVPR 2017
 
