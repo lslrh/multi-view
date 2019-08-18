@@ -32,6 +32,16 @@
 
 [Multi-View Multi-Instance Learning Based on Joint Sparse Representation and Multi-View Dictionary Learning](https://ieeexplore.ieee.org/document/7855789), TPAMI 2017
 
-
-### Multi-view learning
+### Retrieval
 [Dynamic Multi-View Hashing for Online Image Retrieval](https://eprints.lancs.ac.uk/id/eprint/87896/), IJCAI 2017
+
+[TUCH: Turning Cross-view Hashing into Single-view Hashing via Generative Adversarial Nets](https://eprints.lancs.ac.uk/id/eprint/87897/), IJCAI 2017
+
+[Cross-View Image Matching for Geo-localization in Urban Environments](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tian_Cross-View_Image_Matching_CVPR_2017_paper.pdf), CVPR 2017
+
+[An Information Retrieval Approach for Finding Dependent Subspaces of Multiple Views](https://openreview.net/forum?id=Hk-mgcsgx), ICLR 2017
+
+
+
+
+
