@@ -4,6 +4,28 @@
 
 ### Clustering
 
+[COMIC: Multi-view Clustering Without Parameter Selection](http://proceedings.mlr.press/v97/peng19a/peng19a.pdf), ICML 2019
+
+[Binary Multi-View Clustering](http://cfm.uestc.edu.cn/~fshen/TPAMI-BMVC_Final.pdf), PAMI 2019
+
+[Multi-View Information-Theoretic Co-Clustering for Co-Occurrence Data](https://aaai.org/ojs/index.php/AAAI/article/view/3808/3686), AAAI 2019
+
+[Anchors Bring Ease: An Embarrassingly Simple Approach to Partial Multi-View Clustering](https://aaai.org/ojs/index.php/AAAI/article/view/3776/3654), AAAI 2019
+
+[Feature Sampling Based Unsupervised Semantic Clustering for Real Web Multi-View Content](https://aaai.org/ojs/index.php/AAAI/article/view/3774/3652), AAAI 2019
+
+[Multi-view Information-theoretic Co-clustering for Co-occurrence Data](https://arxiv.org/abs/1905.10594), AAAI 2019
+
+[Multi-View Multiple Clustering](https://www.ijcai.org/proceedings/2019/0572.pdf), IJCAI 2019
+
+[Multi-view Clustering via Late Fusion Alignment Maximization](https://www.ijcai.org/proceedings/2019/0524.pdf),	IJCAI 2019
+
+[Flexible Multi-View Representation Learning for Subspace Clustering](https://www.ijcai.org/proceedings/2019/0404.pdf), IJCAI 2019
+
+[Deep Adversarial Multi-view Clustering Network](https://www.ijcai.org/proceedings/2019/0409.pdf), IJCAI 2019
+
+[Multi-view Spectral Clustering Network](https://www.ijcai.org/proceedings/2019/0356.pdf), IJCAI 2019
+
 [Consistent and Specific Multi-View Subspace Clustering](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16212), AAAI 2018
 
 [Weighted Multi-View Spectral Clustering Based on Spectral Perturbation](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16255), AAAI 2018
@@ -33,6 +55,10 @@
 [Multiple Clustering Views from Multiple Uncertain Experts](http://proceedings.mlr.press/v70/chang17a/chang17a.pdf), ICML 2017
 
 ### Multi-view learning
+
+[Cross-view Local Structure Preserved Diversity and Consensus Learning for Multi-view Unsupervised  Feature  Selection](https://aaai.org/ojs/index.php/AAAI/article/view/4443/4321), AAAI 2019
+
+[MEGAN: A Generative Adversarial Network for Multi-View Network Embedding](https://www.ijcai.org/proceedings/2019/0489.pdf), IJCAI 2019
 
 [A probabilistic framework for multi-view feature learning with many-to-many associations via neural networks](http://proceedings.mlr.press/v80/okuno18a.html), ICML 2018
 
@@ -72,6 +98,10 @@
 
 ### Graph
 
+[Multi-GCN: Graph Convolutional Networks for Multi-View Networks, with Applications to Global Poverty](https://aaai.org/ojs/index.php/AAAI/article/view/3836/3714), AAAI 2019
+
+[Multi-view Knowledge Graph Embedding for Entity Alignment](https://www.ijcai.org/proceedings/2019/0754.pdf), IJCAI 2019
+
 [Multi-View Multi-Graph Embedding for Brain Network Clustering Analysis](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16156), AAAI 2018
 
 [Drug Similarity Integration Through Attentive Multi-view Graph Auto-Encoders](https://www.ijcai.org/proceedings/2018/0483.pdf), IJCAI 2018
@@ -105,6 +135,22 @@ Classification](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14582/
 
 ### 3D model
 
+[Wide-Area Crowd Counting via Ground-Plane Density Maps and Multi-View Fusion CNNs](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Wide-Area_Crowd_Counting_via_Ground-Plane_Density_Maps_and_Multi-View_Fusion_CVPR_2019_paper.pdf), CVPR 2019
+
+[Recurrent MVSNet for High-Resolution Multi-View Stereo Depth Inference](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yao_Recurrent_MVSNet_for_High-Resolution_Multi-View_Stereo_Depth_Inference_CVPR_2019_paper.pdf), CVPR 2019
+
+[Multi-Scale Geometric Consistency Guided Multi-View Stereo](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Multi-Scale_Geometric_Consistency_Guided_Multi-View_Stereo_CVPR_2019_paper.pdf), CVPR 2019
+
+[GPSfM: Global Projective SFM Using Algebraic Constraints on Multi-View Fundamental Matrices](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kasten_GPSfM_Global_Projective_SFM_Using_Algebraic_Constraints_on_Multi-View_Fundamental_CVPR_2019_paper.pdf), CVPR 2019
+
+[Self-Supervised Learning of 3D Human Pose Using Multi-View Geometry](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kocabas_Self-Supervised_Learning_of_3D_Human_Pose_Using_Multi-View_Geometry_CVPR_2019_paper.pdf), CVPR 2019
+
+[MVF-Net: Multi-View 3D Face Morphable Model Regression](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_MVF-Net_Multi-View_3D_Face_Morphable_Model_Regression_CVPR_2019_paper.pdf), CVPR 2019
+
+[Coordinate-Free Carlsson-Weinshall Duality and Relative Multi-View Geometry](http://openaccess.thecvf.com/content_CVPR_2019/papers/Trager_Coordinate-Free_Carlsson-Weinshall_Duality_and_Relative_Multi-View_Geometry_CVPR_2019_paper.pdf), CVPR 2019
+
+[Strand-Accurate Multi-View Hair Capture](http://openaccess.thecvf.com/content_CVPR_2019/papers/Srinivasan_Pushing_the_Boundaries_of_View_Extrapolation_With_Multiplane_Images_CVPR_2019_paper.pdfhttp://openaccess.thecvf.com/content_CVPR_2019/papers/Srinivasan_Pushing_the_Boundaries_of_View_Extrapolation_With_Multiplane_Images_CVPR_2019_paper.pdf), CVPR 2019
+
 [Learning and Matching Multi-View Descriptors for Registration of Point Clouds](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lei_Zhou_Learning_and_Matching_ECCV_2018_paper.pdf), ECCV 2018
 
 [MVSNet: Depth Inference for Unstructured Multi-view Stereo](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yao_Yao_MVSNet_Depth_Inference_ECCV_2018_paper.pdf), ECCV 2018
@@ -116,6 +162,10 @@ Classification](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14582/
 [Multi-View Silhouette and Depth Decomposition for High Resolution 3D Object Representation](https://papers.nips.cc/paper/7883-multi-view-silhouette-and-depth-decomposition-for-high-resolution-3d-object-representation.pdf), NIPS 2018
 
 #### (1) 3D reconstruction
+
+[MVPNet: Multi-View Point Regression Networks for 3D Object Reconstruction from A Single Image](https://aaai.org/ojs/index.php/AAAI/article/view/4923/4796), AAAI 2019
+
+[Conditional Single-View Shape Generation for Multi-View Stereo Reconstruction](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wei_Conditional_Single-View_Shape_Generation_for_Multi-View_Stereo_Reconstruction_CVPR_2019_paper.pdf), CVPR 2019
 
 [Specular-to-Diffuse Translation for Multi-View Reconstruction](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shihao_Wu_Specular-to-Diffuse_Translation_for_ECCV_2018_paper.pdf), ECCV 2018
 
@@ -134,6 +184,10 @@ Classification](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14582/
 
 #### (2) 3D Retrieval
 
+[Angular Triplet-Center Loss for Multi-View 3D Shape Retrieval](https://aaai.org/ojs/index.php/AAAI/article/view/4890/4763), AAAI 2019
+
+[DeepCCFV: Camera Constraint-Free Multi-View Convolutional Neural Network for 3D Object Retrieval](https://aaai.org/ojs/index.php/AAAI/article/view/4868/4741), AAAI 2019
+
 [Emphasizing 3D Properties in Recurrent Multi-View Aggregation for 3D Shape Retrieval](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16883), AAAI 2018
 
 [Triplet-Center Loss for Multi-View 3D Object Retrieval](http://openaccess.thecvf.com/content_cvpr_2018/papers/He_Triplet-Center_Loss_for_CVPR_2018_paper.pdf), CVPR 2018
@@ -144,7 +198,7 @@ Classification](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14582/
 
 [Hierarchical Graph Structure Learning for Multi-View 3D Model Retrieval](https://www.ijcai.org/proceedings/2018/0127.pdf), IJCAI 2018
 
-#### (3) 3D Rrediction
+#### (3) 3D Prediction
 
 [Learning to Predict 3D Surfaces of Sculptures from Single and Multiple Views](https://link.springer.com/content/pdf/10.1007%2Fs11263-018-1124-0.pdf), IJCV 2018
 
@@ -168,6 +222,20 @@ Classification](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14582/
 [3D Object Localisation from Multi-View Image Detections](https://doi.org/10.1109/TPAMI.2017.2701373), TPAMI 2018
 
 ### Incomplete learning
+
+[Adversarial Incomplete Multi-view Clustering](https://www.ijcai.org/proceedings/2019/0546.pdf), IJCAI 2019
+
+[Unified Embedding Alignment with Missing Views Inferring for Incomplete Multi-View Clustering](https://aaai.org/ojs/index.php/AAAI/article/view/4478/4356), AAAI 2019
+
+[Efficient and Effective Incomplete Multi-View Clustering](https://aaai.org/ojs/index.php/AAAI/article/view/4350/4228), AAAI 2019
+
+[One-Pass Incomplete Multi-View Clustering](https://aaai.org/ojs/index.php/AAAI/article/view/4271/4149), AAAI 2019
+
+[Simultaneous Representation Learning and Clustering for Incomplete Multi-view Data](https://www.ijcai.org/proceedings/2019/0623.pdf), IJCAI 2019
+
+[Deep Correlated Predictive Subspace Learning for Incomplete Multi-View Semi-Supervised Classification](https://www.ijcai.org/proceedings/2019/0559.pdf), IJCAI 2019
+
+[Spectral Perturbation Meets Incomplete Multi-view Data](https://www.ijcai.org/proceedings/2019/0510.pdf), IJCAI 2019
 
 [Doubly Aligned Incomplete Multi-view Clustering](https://www.ijcai.org/proceedings/2018/0313.pdf), IJCAI 2018
 
@@ -207,15 +275,37 @@ Classification](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14582/
 
 ### Application
 
+[Lipper: Synthesizing Thy Speech Using Multi-View Lipreading](https://aaai.org/ojs/index.php/AAAI/article/view/4106/3984), AAAI 2019
+
+[Multi-View Anomaly Detection: Neighborhood in Locality Matters](https://aaai.org/ojs/index.php/AAAI/article/view/4418/4296), AAAI 2019
+
 [Multi-Task Medical Concept NormalizationUsing Multi-View Convolutional Neural Network](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17066), AAAI 2018
 
 [Multi-Layer Multi-View Classification for Alzheimer’s Disease Diagnosis](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16864), AAAI 2018
 
 ### Multi-label Classification
 
+[Multi-View Multi-Label Learning with View-Specific Information Extraction](https://www.ijcai.org/proceedings/2019/0539.pdf), IJCAI 2019
+
+[Multi-View Multi-Instance Multi-Label Learning Based on Collaborative Matrix Factorization](https://aaai.org/ojs/index.php/AAAI/article/view/4491/4369), AAAI 2019
+
 [Latent Semantic Aware Multi-View Multi-Label Classification](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16829), AAAI 2018
 
+### Reconmendation
+
+[Explainable Recommendation through Attentive Multi-View Learning](https://aaai.org/ojs/index.php/AAAI/article/view/4243/4121), AAAI 2019
+
+[Neural News Recommendation with Attentive Multi-View Learning](https://www.ijcai.org/proceedings/2019/0536.pdf), IJCAI 2019
+
+[Multi-View Active Learning for Video Recommendation](https://www.ijcai.org/proceedings/2019/0284.pdf), IJCAI 2019
+
 ### others
+
+[Multi-Task Learning with Multi-View Attention for Answer Selection and Knowledge Base Question Answering](https://aaai.org/ojs/index.php/AAAI/article/view/4593/4471), AAAI 2019
+
+[Efficient Region Embedding with Multi-View Spatial Networks: A Perspective of Locality-Constrained Spatial Autocorrelations](https://aaai.org/ojs/index.php/AAAI/article/view/3879/3757), AAAI 2019
+
+[Fast and Robust Multi-View Multi-Task Learning via Group Sparsity](https://www.ijcai.org/proceedings/2019/0485.pdf), IJCAI 2019
 
 [Object Segmentation Ensuring Consistency Across Multi-Viewpoint Images](https://doi.org/10.1109/TPAMI.2017.2757928), TPAMI 2018
 
@@ -232,5 +322,3 @@ Classification](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14582/
 [A Multiview-based Parameter Free Framework for Group Detection](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14387), AAAI 2017
 
 [Practical and Efficient Multi-View Matching](http://openaccess.thecvf.com/content_iccv_2017/html/Maset_Practical_and_Efficient_ICCV_2017_paper.html), ICCV 2017
-
-
